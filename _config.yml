@@ -1,0 +1,7 @@
+baseurl:
+markdown: kramdown
+kramdown:
+    input: GFM
+
+# Required by jekyll-hg
+github: SilverRainZ/srain
