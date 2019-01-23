@@ -4,4 +4,4 @@ kramdown:
     input: GFM
 
 # Required by jekyll-hg
-github: SilverRainZ/srain
+github: SilverApp/srain
